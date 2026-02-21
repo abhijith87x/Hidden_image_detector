@@ -39,3 +39,7 @@ python train.py
 # Prediction
 
 python predict.py
+
+##  Output Visualization
+
+The prediction output image is uploaded inside the repository file name ouput.

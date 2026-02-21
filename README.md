@@ -9,20 +9,33 @@ The goal is to classify paintings as:
 Hidden Image Present
 No Hidden Image
 
-📂 Dataset Structure
+# Dataset
 
-Dataset folder is organized into three parts:
+Only sample dataset images are uploaded due to GitHub size limitations.
 
-dataset/
-│
-├── train/
-│   ├── hidden/
-│   └── no_hidden/
-│
-├── test/
-│   ├── hidden/
-│   └── no_hidden/
-│
-└── val/
-    ├── hidden/
-    └── no_hidden/
+# Model Architecture
+
+Convolutional Layers
+
+Max Pooling Layers
+
+Dense Layers
+
+Dropout Regularization
+
+Sigmoid Binary Classification
+
+Built using deep learning framework.
+
+# How to Run Project
+
+# Install Dependencies
+pip install -r requirements.txt
+
+# Train Model
+
+python train.py
+
+# Prediction
+
+python predict.py
